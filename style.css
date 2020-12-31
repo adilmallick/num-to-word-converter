@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    background: black;
+}
+
+form{
+    margin-top: 25%;
+    display: grid;
+    place-items: center;
+}
+
+input {
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    padding: 30px 25px;
+    margin: 21px;
+    border-radius: 20px;
+    background: azure;
+}
+
+h1{
+    font-size: 40px;
+    color:green;
+    z-index: 1000000000000000;
+}
